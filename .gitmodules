@@ -1,0 +1,6 @@
+[submodule "demorepo"]
+	path = demorepo
+	url = https://github.com/muthuramanm/demorepo.git
+[submodule "testrepo"]
+	path = testrepo
+	url = https://github.com/muthuramanm/testrepo.git
